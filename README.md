@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **PushpakkumarBH/PushpakkumarBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi there, I'm Mohit Gupta 👋</h1>
-<h3 align="center">An Imperfect Programmer</h3>
+<h1 align="center">Hi there, I'm Pushpakkumar BH 👋</h1>
+<h3 align="center">Programmer</h3>
 
 
 
@@ -64,9 +64,9 @@ Here are some ideas to get you started:
 ---
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=themohitgupta&show_icons=true&locale=en&layout=compact" alt="themohitgupta" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PushpakkumarBH&show_icons=true&locale=en&layout=compact" alt="PushpakkumarBH" />
 </p>
 
 <p>
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=themohitgupta&show_icons=true&locale=en" alt="themohitgupta" >
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PushpakkumarBH&show_icons=true&locale=en" alt="PudhpskkumarBH" >
 </p>
