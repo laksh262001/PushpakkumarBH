@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ---
 #### connect with me
 
-<a href="https://twitter.com/pushpak696" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Pushpak" height="30" width="40" /></a>
+<a href="https://twitter.com/pushpak696" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Pushpak" height="30" width="40" color="white" /></a>
 <a href="https://www.linkedin.com/in/pushpakkumar-bh-4555a11b0/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Pushpak" height="30" width="40" /></a>
 <a href="https://www.instagram.com/pushpakkumar_bh/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Pushpak" height="30" width="40" /></a>
 
