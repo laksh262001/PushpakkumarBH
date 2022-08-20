@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 - 📚 I’m currently learning React, Javascript, Nodejs and Firebase.
-- 🥅 2022 Goals: 
+- 🥅 2022 Goals: Master DSA concepts
 - ⚡ Fun fact I am a Gym Freak
 
 ---
